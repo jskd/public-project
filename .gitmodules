@@ -4,3 +4,6 @@
 [submodule "osm-render"]
 	path = osm-render
 	url = git@github.com:jskd/osm-render.git
+[submodule "EyeSat-SpaceCamera"]
+	path = EyeSat-SpaceCamera
+	url = git@github.com:jskd/EyeSat-SpaceCamera.git
