@@ -1,3 +1,6 @@
 [submodule "vempiros"]
 	path = vempiros
 	url = git@github.com:jskd/vempiros.git
+[submodule "osm-render"]
+	path = osm-render
+	url = git@github.com:jskd/osm-render.git
