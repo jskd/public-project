@@ -13,3 +13,6 @@
 [submodule "conduit"]
 	path = conduit
 	url = git@github.com:jskd/conduit.git
+[submodule "collection-jeu"]
+	path = collection-jeu
+	url = git@github.com:jskd/collection-jeu.git
