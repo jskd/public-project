@@ -19,3 +19,6 @@
 [submodule "jeu-cartes-memoire"]
 	path = jeu-cartes-memoire
 	url = git@github.com:jskd/jeu-cartes-memoire.git
+[submodule "experimentation-symfony"]
+	path = experimentation-symfony
+	url = git@github.com:jskd/experimentation-symfony.git
