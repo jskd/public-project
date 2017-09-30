@@ -22,3 +22,6 @@
 [submodule "experimentation-symfony"]
 	path = experimentation-symfony
 	url = git@github.com:jskd/experimentation-symfony.git
+[submodule "robot-lego-suiveur-de-ligne"]
+	path = robot-lego-suiveur-de-ligne
+	url = git@github.com:jskd/robot-lego-suiveur-de-ligne.git
