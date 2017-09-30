@@ -10,3 +10,6 @@
 [submodule "lc-3"]
 	path = lc-3
 	url = git@github.com:jskd/lc-3.git
+[submodule "conduit"]
+	path = conduit
+	url = git@github.com:jskd/conduit.git
