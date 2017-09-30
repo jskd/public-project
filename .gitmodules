@@ -16,3 +16,6 @@
 [submodule "collection-jeu"]
 	path = collection-jeu
 	url = git@github.com:jskd/collection-jeu.git
+[submodule "jeu-cartes-memoire"]
+	path = jeu-cartes-memoire
+	url = git@github.com:jskd/jeu-cartes-memoire.git
