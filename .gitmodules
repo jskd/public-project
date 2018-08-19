@@ -31,3 +31,6 @@
 [submodule "mushroom-classification"]
 	path = mushroom-classification
 	url = git@github.com:jskd/mushroom-classification.git
+[submodule "evaluator"]
+	path = evaluator
+	url = git@github.com:jskd/evaluator.git
