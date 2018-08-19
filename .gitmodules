@@ -25,3 +25,6 @@
 [submodule "robot-lego-suiveur-de-ligne"]
 	path = robot-lego-suiveur-de-ligne
 	url = git@github.com:jskd/robot-lego-suiveur-de-ligne.git
+[submodule "portfolio"]
+	path = portfolio
+	url = git@github.com:jskd/portfolio.git
