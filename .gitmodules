@@ -28,3 +28,6 @@
 [submodule "portfolio"]
 	path = portfolio
 	url = git@github.com:jskd/portfolio.git
+[submodule "mushroom-classification"]
+	path = mushroom-classification
+	url = git@github.com:jskd/mushroom-classification.git
